@@ -1,8 +1,26 @@
-p {
-    text-align: justify;
+
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+.FYI{
+    border-style: solid;
+    height: 80%;
+    width: 10%;
+text-align: center;
+background-color: rgb(245, 155, 21);
+/* bottom: 40px; */
+line-height: 2;
+position: relative;
 }
 
 
+#intro {
+    text-align: justify;
+    color: red;
+}
 
 
 
